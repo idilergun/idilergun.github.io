@@ -1,0 +1,15 @@
+.profilePic { max-width: 50% }
+.spotifyIcon {color: green;}
+.spotifyIcon:hover {color: black;}
+.aboutBackground {background-image: url("../img/write.jpg"); background-size: cover;}
+.card {margin-top: 10px;}
+.card-block {background-color: white;}
+h2 {font-family: 'Montserrat', sans-serif;}
+p {font-family: 'Montserrat', sans-serif;}
+label {font-family: 'Montserrat', sans-serif;}
+h4 {font-family: 'Montserrat', sans-serif;}
+.customNav {background-color: white;}
+a {font-family: 'Montserrat', sans-serif;}
+.anasayfa {background-image: url("../img/write.jpg"); background-size: cover;}
+.stretchRow {height: 100vh;}
+.middleColumn {margin: auto;}
