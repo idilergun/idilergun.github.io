@@ -13,3 +13,7 @@ a {font-family: 'Montserrat', sans-serif;}
 .anasayfa {background-image: url("../img/write.jpg"); background-size: cover;}
 .stretchRow {height: 100vh;}
 .middleColumn {margin: auto;}
+.greenBar {background-color: green;}
+.orangeBar {background-color: orange;}
+.redBar {background-color: red;}
+.pinkBar {background-color: pink;}
