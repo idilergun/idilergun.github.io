@@ -1,6 +1,5 @@
 .profilePic { max-width: 50% }
 .spotifyIcon {color: green;}
-.spotifyIcon:hover {color: black;}
 .aboutBackground {background-image: url("../img/write.jpg"); background-size: cover;}
 .card {margin-top: 10px;}
 .card-block {background-color: white;}
